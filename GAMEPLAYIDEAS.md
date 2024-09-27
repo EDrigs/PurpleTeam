@@ -13,8 +13,11 @@
 #### Social Engineering - Send question designed to get recipient to divulge info
 - Mechanic Ideas:
 
-#### Phishing - Send fake option to trick recipient into clicking, almost like a pop up ad
-- Mechanic Ideas: if clicked, the recipient is stunned for a short time
+#### Phishing - Sends out fake enemy for player to shoot
+- Mechanic Ideas: if attacked, player will have location be revealed and stunned
+
+#### Ransomeware - Locks player out of some of their abilities
+- Mechanic Ideas: Stops player from using some of their abilities, timed/runs out, or player can give up some of their health
 
 
 
@@ -22,9 +25,10 @@
 ### Cyber defense is most often placing precautions before an attack or restoring control after an attack. 
 ### It is not as much actively stopping attacks, therefore defensive cyber mechanics should be either passive or in response.
 
-#### Firewall/Reboot - stops Dos attack (if thrown up in time?)
+#### Reboot - stops Dos attack (if thrown up in time?)
 - Mechanic Ideas: if equipped, blocks dos attack from effecting
 
+#### Firewall - Creates a literal wall that enemies can't cross
 
 #### Antivirus - attacks and removes the virus from the recipient
 - Mechanic Ideas: if equipped, blocks a certain amount of Malware attacks from effecting
